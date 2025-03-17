@@ -39,7 +39,13 @@ Google 계정 로그인 지원 (팝업을 통한 OAuth 2.0 인증 방식)
 Google Firestore 
 알림 기록 저장 
 
+## 시연 영상 
+
+![RecnRoll시연영상](https://github.com/user-attachments/assets/81cb1bc3-d8d6-493c-a0fe-b6e8edcd1aa6)
 
 
+![RecnRoll시연영상2](https://github.com/user-attachments/assets/a0d63f09-91f0-4621-bc3b-74cfac5e491f)
+
+![RecnRoll_시연영상2](https://github.com/user-attachments/assets/f6166652-9f20-4fd6-bb9f-5e69a0a34350)
 
 
