@@ -39,7 +39,7 @@ Google 계정 로그인 지원 (팝업을 통한 OAuth 2.0 인증 방식)
 Google Firestore 
 알림 기록 저장 
 
-## 시연 영상 
+
 
 
 
